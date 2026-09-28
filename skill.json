@@ -1,0 +1,9 @@
+{
+  "name": "genpark-quantum-qubit-state-vector-simulator-skill",
+  "version": "1.0.0",
+  "description": "Multi-qubit complex state vector simulator calculating superposition amplitudes, state fidelity, and probability distributions.",
+  "category": "Service",
+  "entrypoint": "client.py",
+  "mcp": "mcp_server.py",
+  "author": "GenPark AI"
+}
